@@ -1,6 +1,4 @@
-# Verihubs Coding Test
-
-Verihubs is a simple CRUD application built using FastAPI, SQLAlchemy, and Pydantic.
+# Crypto Coin Tracker
 
 ## Installation
 
