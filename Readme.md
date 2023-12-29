@@ -1,5 +1,7 @@
 # Crypto Coin Tracker
 
+you can try the API here https://verihubs-api-41cb7f19d09f.herokuapp.com/docs
+
 ## Installation
 
 1. Create and activate the virtual environment:
